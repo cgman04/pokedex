@@ -1,0 +1,19 @@
+.search-bar {
+    background-color: #f1f8f8;
+    border: none;
+    padding: 10px;
+    width: auto;
+    margin: 15px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid black;
+}
+
+.btn {
+    background: none;
+    border: none;
+    color: black;
+    font-weight: 600;
+    font-size: medium;
+    cursor: pointer;
+}
